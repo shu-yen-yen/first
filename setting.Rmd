@@ -1,0 +1,10 @@
+```{r}
+library(usethis)
+use_git_config(user.name = "shu-yen-yen", user.email = "shu931028@gamil.com")
+```
+
+
+```{r}
+use_git()
+```
+
